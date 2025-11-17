@@ -8,7 +8,7 @@ name : hossam ghallab
 
 ---
 
-<img src="../assets/getting started in cybersecurity.png">
+<img src="../assets/getting-started-in-cybersecurity.png" alt="Getting started in cybersecurity">
 
 # Getting Started in Cybersecurity: The Penetration Tester's Roadmap
 
