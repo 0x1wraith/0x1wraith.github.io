@@ -4,12 +4,10 @@ title : "Getting Started in Cybersecurity: The Penetration Tester's Roadmap"
 date : 2025-11-17
 categories : [Cybersecurity ]
 tags : [Cybersecurity, Penetration Testing, Ethical Hacking, Beginner's Guide, Hacking, Roadmap]
-name : hossam ghallab
-# author: jovandeginste 
 
 ---
 
-<!-- <img src="../assets/getting-started-in-cybersecurity.png" alt="Getting started in cybersecurity"> -->
+<img src="../assets/getting-started-in-cybersecurity.png" alt="Getting started in cybersecurity">
 
 # Getting Started in Cybersecurity: The Penetration Tester's Roadmap
 
