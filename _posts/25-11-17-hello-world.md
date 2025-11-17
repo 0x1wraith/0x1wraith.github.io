@@ -1,4 +1,5 @@
 ---
+published: true
 title : "Getting Started in Cybersecurity: The Penetration Tester's Roadmap"
 date : 2025-11-17
 categories : [Cybersecurity ]
