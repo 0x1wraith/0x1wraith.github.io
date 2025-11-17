@@ -1,6 +1,6 @@
 ---
 published: true
-title : "Getting Started in Cybersecurity: The Penetration Tester's Roadmap"
+title : "Getting Started in Cybersecurity (The Penetration Tester's Roadmap)"
 date : 2025-11-17
 categories : [Cybersecurity ]
 tags : [Cybersecurity, Penetration Testing, Ethical Hacking, Beginner's Guide, Hacking, Roadmap]
@@ -133,7 +133,7 @@ This is the most important phase. You can't learn to hack by just reading books.
         - **Target Machine(s):** Download from VulnHub or use Metasploitable (an extremely vulnerable VM made for learning).
             
 
-## Phase 4: Get Certified & Join the Community
+## Phase 4: Get Certified
 
 ### 1. Certifications
 
@@ -149,17 +149,6 @@ Certs aren't everything, but they help you learn and get past HR filters.
     
     - **OSCP (Offensive Security Certified Professional):** This is the industry-standard "prove you can hack" certification. It's a difficult 24-hour practical exam. This is _not_ a starting certification; it's a goal to work towards.
         
-
-### 2. Join the Community
-
-You can't learn this in a vacuum.
-
-- **Twitter / X:** The "Infosec" community is incredibly active here.
-    
-- **Reddit:** r/netsec, r/pentesting, r/hacking, r/oscp
-    
-- **Discord:** Many security content creators and platforms (like HTB) have active Discord servers.
-    
 
 ### Final Word
 
