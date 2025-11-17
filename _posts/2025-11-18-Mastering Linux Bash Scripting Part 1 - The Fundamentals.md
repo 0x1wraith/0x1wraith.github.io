@@ -1,9 +1,12 @@
------
+---
+published: true
 title : "Mastering Linux Bash Scripting: Part 1 - The Fundamentals"
 date : 2025-11-18
-categories : [Linux, Programming]
+categories : [Programming, Linux, Bash Scripting]
 tags : [Linux, Bash, Scripting, Automation, Beginner's Guide]
------
+
+---
+
 
 <img src="../assets/bash-scripting.png" alt="bash-scripting">
 
@@ -15,11 +18,11 @@ This is **Part 1** of our Bash Scripting roadmap. In this article, we will cover
 
 ## Table of Contents
 
-1.  [Why Learn Bash?](https://www.google.com/search?q=%231-why-learn-bash)
-2.  [The Shebang & Your First Script](https://www.google.com/search?q=%232-the-shebang--your-first-script)
-3.  [Variables in Bash](https://www.google.com/search?q=%233-variables-in-bash)
-4.  [Data Types: Strings vs. Numbers](https://www.google.com/search?q=%234-data-types-strings-vs-numbers)
-5.  [Next Steps](https://www.google.com/search?q=%235-next-steps)
+1.  [Why Learn Bash?](#1-why-learn-bash)
+2.  [The Shebang & Your First Script](#2-the-shebang--your-first-script)
+3.  [Variables in Bash](#3-variables-in-bash)
+4.  [Data Types: Strings vs. Numbers](#4-data-types-strings-vs-numbers)
+5.  [Next Steps](#5-next-steps)
 
 -----
 

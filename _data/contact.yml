@@ -12,3 +12,4 @@
 - type: linkedin
   icon: 'fab fa-linkedin'
   url:  'https://www.linkedin.com/in/hossam-ghallab/'
+  noblank: true
