@@ -10,8 +10,6 @@ tags : [Linux, Bash, Scripting, Automation, Beginner's Guide]
 
 <img src="../assets/bash-scripting.png" alt="bash-scripting">
 
-# Mastering Linux Bash Scripting: Part 1 - The Fundamentals
-
 If you work with Linux, whether as a System Administrator, a DevOps engineer, or a Cybersecurity analyst, the terminal is your home. While you can type commands one by one, the real power of Linux unlocks when you start **scripting**.
 
 This is **Part 1** of our Bash Scripting roadmap. In this article, we will cover the absolute basics: why we use it, how to create your first script, and how to handle data using variables.

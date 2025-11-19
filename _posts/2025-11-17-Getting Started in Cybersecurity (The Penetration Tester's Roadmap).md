@@ -1,6 +1,6 @@
 ---
 published: true
-title : "Getting Started in Cybersecurity (The Penetration Tester's Roadmap)"
+title : "Getting Started in Cybersecurity: The Penetration Tester's Roadmap"
 date : 2025-11-17
 categories : [Cybersecurity ]
 tags : [Cybersecurity, Penetration Testing, Ethical Hacking, Beginner's Guide, Hacking, Roadmap]
@@ -8,8 +8,6 @@ tags : [Cybersecurity, Penetration Testing, Ethical Hacking, Beginner's Guide, H
 ---
 
 <img src="/assets/getting-started-in-cybersecurity.png" alt="Getting started in cybersecurity">
-
-# Getting Started in Cybersecurity: The Penetration Tester's Roadmap
 
 Welcome to the exciting world of cybersecurity! This guide is designed to give you a clear roadmap to becoming a penetration tester, also known as an "ethical hacker." A pen tester's job is to legally and ethically find and exploit vulnerabilities in computer systems, networks, and applications to help organizations fix them before a real attacker does.
 
